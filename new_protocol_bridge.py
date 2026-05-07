@@ -11,7 +11,7 @@ import bluetooth
 import time
 import struct
 
-COM_PORT = 'COM3'
+COM_PORT = 'COM4'
 BAUD = 115200
 PAPERANG_ADDR = "03:0B:F8:E0:D3:E8"
 
